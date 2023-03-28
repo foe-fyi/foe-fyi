@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<pre>
-💻 Student software developer
-📚 Studying a Bachelor of Information Technology with RMIT
-📝 Strong interest in desktop and web development
-</pre>
 <hr/>
 
 ### Programming Languages & Frameworks I Use
