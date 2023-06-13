@@ -5,7 +5,6 @@
 ### Programming Languages & Frameworks I Use
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=black&labelColor=%23239120">
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow">
   <img alt="Vue.js" src="https://img.shields.io/badge/vue-000000.svg?style=for-the-badge&logo=vue.js&labelColor=green&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-000000.svg?style=for-the-badge&logo=laravel&labelColor=red&logoColor=white">
 </p>
